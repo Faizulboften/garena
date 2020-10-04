@@ -20,19 +20,19 @@ echo $cyan " 🔴 MENGINSTALL"
 sleep 20
 echo $cyan " 🔴 CEK"
 sleep 1
-ccho $cyan " 🔴 CEK "
+echo $cyan " 🔴 CEK "
 sleep 1
 echo $cyan " 🔴 CEK "
 sleep 1
 echo $cyan " 🔴 CEK"
 sleep 1
-ccho $cyan " 🔴 CEK "
+echo $cyan " 🔴 CEK "
 sleep 1
 echo $cyan " 🔴 CEK"
 sleep 1
 echo $cyan " 🔴 CEK"
 sleep 1
-ccho $cyan " 🔴 CEK "
+echo $cyan " 🔴 CEK "
 sleep 1
 echo $cyan " 🔴 CEK "
 sleep 1
